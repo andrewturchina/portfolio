@@ -5,11 +5,11 @@ url: index.html
 image: http://unsplash.it/400?random
 ---
 
-## Quick Spiel
-Lorem ipsum dolor sit amet, tota primis copiosae id quo. Melius eligendi elaboraret pri et, eam menandri platonem te. Tollit iudicabit gloriatur per ad. Ad diceret recteque eum, eu commodo petentium qui. No aliquid delectus eam, dicta eripuit convenire te nec. Vix no veritus dignissim. Erat ferri veniam ut eos, pro ex eius error intellegat, his te graecis oporteat honestatis.
+Please feel free to reach out with any questions:
 
+* LinkedIn: [Andrew Turchina](https://www.linkedin.com/pub/andrew-turchina/18/290/41b)
 * Phone: (513) 582-9920
 * Email: andrewturchina2015@u.northwestern.edu
-* Address: 1100 Church Street Unit 603, Evanston, IL, 60201
+* Address: 2145 Sheridan Rd., Evanston, IL, 60201
+* Northwestern MSR: [Master of Science in Robotics](http://robotics.northwestern.edu/)
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
