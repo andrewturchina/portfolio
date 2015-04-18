@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: http://unsplash.it/400?random
+image: https://raw.githubusercontent.com/andrewturchina/portfolio/gh-pages/about.jpg
 ---
 
 Please feel free to reach out with any questions:
