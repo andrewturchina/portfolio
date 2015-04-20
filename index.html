@@ -10,7 +10,8 @@ title: Portfolio
 			{% for project in site.projects %}
 				<li>
 					<a href="{{ site.baseurl }}{{ project.url }}">
-						<img src="{{ site.baseurlf }}/{{site.image_path}}/{{ project.image }}">
+						<!--img src="{{ site.baseurlf }}/{{site.image_path}}/{{ project.image }}"-->
+						<img src="{{ project.image }}">
 						<h2>{{ project.title }}</h2>
 					</a>
 				</li>
@@ -18,3 +19,4 @@ title: Portfolio
 		</ul>
 	</section>
 </main>
+
