@@ -18,7 +18,7 @@ A full tutorial with details on the process of camera calibration, package insta
 Tag tracking is a useful technique to be able to identify an object and estimate it's position and angle. Tags can store a wide range of information based on user need. It can be used in many applications including warehouse shipping and receiving, inventory counts, barcode scanning, and pose estimation. Tag tracking allows added flexibility to systems that comes with an improvement in capturing data.  
 
 ### Project outline
-Three tag tracking packages were tested and compared both quantifiably and quantitatively.  We were interested in pose estimate noise, minimum and maximum tracking distance, average tracker frequency, ease of use, light sensitivity, and interuptions of visibility.  
+Three tag tracking packages were tested and compared both quantifiably and quantitatively.  We were interested in pose estimate noise, minimum and maximum tracking distance, average tracker frequency, ease of use, light sensitivity, and interruptions of visibility.  
 
 
 ### Step by step
@@ -31,7 +31,7 @@ Three tag tracking packages were tested and compared both quantifiably and quant
 * Download and install tag tracking packages and dependencies
 * Create launch files to nicely package image data and visual display together for ease of use
 
-* Run experiments and analyze data to for comparisons
+* Run experiments and analyze data for comparisons
 
 ![ar_track_alvar](http://i1380.photobucket.com/albums/ah164/aturchina0528/portfolio/ar_track_alvar_zps1daiadgp.png)
 

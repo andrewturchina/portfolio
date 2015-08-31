@@ -37,7 +37,7 @@ I am currently pursuing a Master of Science in Robotics (MSR) as well as a Minor
 * Northwestern University  
   * Master of Science in Robotics  
 
-  * Minor in Engineering Managment  
+  * Minor in Engineering Management  
 
 * Miami University of Ohio  
   * Bachelor of Science in Mechanical Engineering
