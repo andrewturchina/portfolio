@@ -10,9 +10,11 @@ This project involved using a [Baxter robot](http://www.rethinkrobotics.com/baxt
 
 Complete information and repository can be found [here](https://github.com/ChuChuIgbokwe/ME495-Final-Project-Baxter-Stocking-Stuffer)  
 
-**_Click_** on the image below to watch the video!  
+**_Demonstration Video_** 
 
-[![Screenshot](https://raw.githubusercontent.com/ChuChuIgbokwe/ME495-Final-Project-Baxter-Stocking-Stuffer/master/clippicture.png)](https://vimeo.com/114372776)
+<iframe src="https://player.vimeo.com/video/114372776" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p></p>
+
+
 
 ### About Baxter
 Baxter has two 7 degrees of freedom (DOF) arms, a 360 degree sonar and front camera, and interchangeable end-effectors. Baxter is commonly seen in industrial manufacturing settings and is advertised as an intelligent robot that learns from interaction and works safely among humans. The Baxter robot that was used in this project is a research version that allows programming through ROS.

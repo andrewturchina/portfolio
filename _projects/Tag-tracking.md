@@ -23,16 +23,19 @@ Three tag tracking packages were tested and compared both quantifiably and quant
 
 ### Step by step
 * Camera calibration
-  * A USB webcam was used, however others such as a Kinect may be used for better results
-  * Creates a calibration file by sampling several photos of a known object and calculating a mean
+  * A USB webcam was used, however others such as a Kinect may be used for better results.  
+  * Creates a calibration file by sampling several photos of a known object and calculating a mean.  
 
+       	          [Checkerboard calibration](http://wiki.ros.org/camera_calibration/Tutorials/MonocularCalibration)  
 ![calibration](http://i1380.photobucket.com/albums/ah164/aturchina0528/portfolio/calibration_zps21kxnbdg.png)
 
 * Download and install tag tracking packages and dependencies
 * Create launch files to nicely package image data and visual display together for ease of use
 
-* Run experiments and analyze data for comparisons
+* Run experiments and analyze data for comparisons  
 
-![ar_track_alvar](http://i1380.photobucket.com/albums/ah164/aturchina0528/portfolio/ar_track_alvar_zps1daiadgp.png)
+	Pictured below: [ar_track_alvar](http://wiki.ros.org/ar_track_alvar)  
+
+	![ar_track_alvar](http://i1380.photobucket.com/albums/ah164/aturchina0528/portfolio/ar_track_alvar_zps1daiadgp.png)
 
 
